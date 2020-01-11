@@ -1,6 +1,6 @@
 module.exports = {
-    title: '宇宙银行',
-    description: '网站描述',
+    title: 'tktkl',
+    description: 'tktkl基于GithubPage',
     head: [
       ['link', {rel: 'icon', href: '/favicon.ico'}]
     ],
